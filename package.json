@@ -1,0 +1,16 @@
+{
+  "name": "element-attribute",
+  "version": "0.1.1",
+  "description": "get/set/remove element attribute, by string or json.",
+  "main": "element-attribute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "element",
+    "attribute",
+    "json"
+  ],
+  "author": "fwg",
+  "license": "ISC"
+}
